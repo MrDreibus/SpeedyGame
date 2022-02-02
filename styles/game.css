@@ -1,0 +1,96 @@
+#ViewBoard {
+    position: absolute;
+    top: 160px;
+    left: 40px;
+
+    width: 680px;
+    height: 250px;
+    
+    border-radius: 14px;
+}
+
+#ViewBoard img{
+    margin-top: 55px;
+    width: 150px;
+    height: 150px;
+}
+
+#ChooseBoard {
+    position: absolute;
+    top: 450px;
+    left: 80px;
+
+    height: 150px;
+
+    text-align: center;
+}
+
+.Buttons img{
+    width: 120px;
+    height: 120px;
+}
+
+.Buttons {
+    margin-top: 5px;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+#Option1{
+    visibility: visible;
+}
+#Option2{
+    margin-left: 95px;
+    
+}
+#Option3{
+    margin-left: 10px;
+    margin-left: 90px;
+    
+}
+
+#HUD {
+    position: absolute;
+    top: 20px;
+    left: 50px;
+
+    width: 670px;
+    height: 50px;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+#Points {
+    margin-left: 20px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#Seconds {
+    margin-right: 20px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#gameBoard {
+    position: absolute;
+    left: 430px;
+    top: 100px;
+
+    width: 800px;
+    height: 650px;
+
+    text-align: center;
+    margin: auto;
+}
+
+#gameBoard div {
+    margin: auto;
+    margin-top: 10px;
+}
+
+body{
+    background-image: url("../assets/Juego2_Fondo.png");
+    background-size: cover;
+}
