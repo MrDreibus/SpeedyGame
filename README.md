@@ -7,4 +7,4 @@ It is a game in which you have 100 seconds to get 100 points, but if you make a 
 background-image: https://i.ibb.co/4thdw7q/Juego2-Fondo.png
 
 ## INSTALL
-Put the image on ``Requirements``into **assets** folder
+Place the ``Requirements image`` in the **assets** folder
